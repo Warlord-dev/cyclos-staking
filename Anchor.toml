@@ -1,0 +1,18 @@
+[programs.localnet]
+reward_pool = "7XDST8WpuVzZpYqaoVsw5pYJ4NEqvFxkyegx4nK34FMP"
+
+[programs.devnet]
+reward_pool = "7XDST8WpuVzZpYqaoVsw5pYJ4NEqvFxkyegx4nK34FMP"
+
+[programs.mainnet]
+reward_pool = "7XDST8WpuVzZpYqaoVsw5pYJ4NEqvFxkyegx4nK34FMP"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "mainnet"
+wallet = "./jeet.json"
+
+[scripts]
+test = "mocha -t 1000000 tests/"

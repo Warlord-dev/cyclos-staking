@@ -1,0 +1,1 @@
+### Single Asset Staking Contract

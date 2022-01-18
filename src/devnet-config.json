@@ -1,0 +1,23 @@
+{
+  "rewardPoolProgram": "7XDST8WpuVzZpYqaoVsw5pYJ4NEqvFxkyegx4nK34FMP",
+  "cysMint": "9Nt3mt734gNW9Ufi8TFLWKpW1Tz33TRvuHoKqqvsFdHJ",
+  "cysTokenAccount": "Dt2412sS9U177Mz82dhVTcRE8hwDFJXNmrdMGv222gvr",
+  "pools": [
+    {
+      "lockPeriod": 0,
+      "pool": "DbWywjii4Wvpm3xGNWhCwTbNTDJsWxc6KZaWGzvCtTct",
+      "poolSigner": "AxJGYEHY1vGsUh1StrZqujv79rH1MGtQXdN3XYvEj3D5",
+      "nonce": 255,
+      "stakingVault": "CtFdFuqDpNSYPyQcwS5LPCT74NVGfU9ki3SCUvdLJ6hW",
+      "rewardVault": "HDdFKwZrcDnyUA3J97NC2GbuUgHoh3DsY6e91X9fByL7"
+    },
+    {
+      "lockPeriod": 5184000,
+      "pool": "jqFZKUD5rTHbo7CAkExBrb3RqA6AtvZfkFtjz5JidKJ",
+      "poolSigner": "DSSa1KNhA8ZPnnLZ2eCLcu2dbHW4befLNkWcQS3PAVLP",
+      "nonce": 255,
+      "stakingVault": "9AErn9vujkmXFd2bP1ncBBtU8MBopkQhmeK4Eqs1T7Qs",
+      "rewardVault": "HD5q7n43xTPXXdBnyfmK9gEbdY8ED1yJiYdpPzSPGLRB"
+    }
+  ]
+}
